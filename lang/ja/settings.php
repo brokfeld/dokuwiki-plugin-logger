@@ -14,3 +14,4 @@ $lang['host_name'] = "ログ PC 名：";
 $lang['query_string'] = "ログクエリ文字列：";
 $lang['user_agent'] = "ログユーザーエージェント（ブラウザ）：";
 $lang['ns_exclude'] = "名前空間を除外する: ";
+$lang['monthly'] = "月次ログファイル: ";

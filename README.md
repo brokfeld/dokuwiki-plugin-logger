@@ -1,6 +1,7 @@
 # Logger Plugin for DokuWiki
 
-This plugin logs every request of DokuWiki. It logs the date, time, ip, username, host name, query string and user agent.
+This plugin logs every request of DokuWiki.
+It logs the date, time, ip, username, host name, query string and user agent.
 
 All documentation for this plugin can be found at
 https://www.dokuwiki.org/plugin:logger
@@ -12,10 +13,9 @@ will not work!
 Please refer to http://www.dokuwiki.org/plugins for additional info
 on how to install plugins in DokuWiki.
 
+## License
 
-======================
-
-Copyright (C) Jens Brokfeld <geofreak.de@gmail.com>
+Copyright (C) 2015-2020 Jens Brokfeld  <geofreak.de@gmail.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
